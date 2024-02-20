@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\GameBreak\bin\Debug\GameBreak.exe.config
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\GameBreak\bin\Debug\GameBreak.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\GameBreak\bin\Debug\GameBreak.pdb
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\GameBreak\obj\Debug\GameBreak.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\GameBreak\obj\Debug\GameBreak.frmGameBreak.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\GameBreak\obj\Debug\GameBreak.Properties.Resources.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\GameBreak\obj\Debug\GameBreak.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\GameBreak\obj\Debug\GameBreak.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\GameBreak\obj\Debug\GameBreak.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\GameBreak\obj\Debug\GameBreak.pdb

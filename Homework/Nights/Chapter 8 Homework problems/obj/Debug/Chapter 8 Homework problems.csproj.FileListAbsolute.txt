@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Chapter 8 Homework problems\bin\Debug\Chapter 8 Homework problems.exe.config
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Chapter 8 Homework problems\bin\Debug\Chapter 8 Homework problems.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Chapter 8 Homework problems\bin\Debug\Chapter 8 Homework problems.pdb
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Chapter 8 Homework problems\obj\Debug\Chapter 8 Homework problems.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Chapter 8 Homework problems\obj\Debug\Chapter_8_Homework_problems.frmNights.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Chapter 8 Homework problems\obj\Debug\Chapter_8_Homework_problems.Properties.Resources.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Chapter 8 Homework problems\obj\Debug\Chapter 8 Homework problems.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Chapter 8 Homework problems\obj\Debug\Chapter 8 Homework problems.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Chapter 8 Homework problems\obj\Debug\Chapter 8 Homework problems.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Chapter 8 Homework problems\obj\Debug\Chapter 8 Homework problems.pdb

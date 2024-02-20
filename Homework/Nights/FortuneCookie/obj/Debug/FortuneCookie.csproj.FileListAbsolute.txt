@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\FortuneCookie\bin\Debug\FortuneCookie.exe.config
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\FortuneCookie\bin\Debug\FortuneCookie.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\FortuneCookie\bin\Debug\FortuneCookie.pdb
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\FortuneCookie\obj\Debug\FortuneCookie.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\FortuneCookie\obj\Debug\FortuneCookie.frmCookie.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\FortuneCookie\obj\Debug\FortuneCookie.Properties.Resources.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\FortuneCookie\obj\Debug\FortuneCookie.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\FortuneCookie\obj\Debug\FortuneCookie.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\FortuneCookie\obj\Debug\FortuneCookie.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\FortuneCookie\obj\Debug\FortuneCookie.pdb

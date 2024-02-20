@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Delivery Charge\bin\Debug\Delivery Charge.exe.config
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Delivery Charge\bin\Debug\Delivery Charge.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Delivery Charge\bin\Debug\Delivery Charge.pdb
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Delivery Charge\obj\Debug\Delivery Charge.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Delivery Charge\obj\Debug\Delivery_Charge.frmDevlieryCharge.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Delivery Charge\obj\Debug\Delivery_Charge.Properties.Resources.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Delivery Charge\obj\Debug\Delivery Charge.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Delivery Charge\obj\Debug\Delivery Charge.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Delivery Charge\obj\Debug\Delivery Charge.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\Delivery Charge\obj\Debug\Delivery Charge.pdb

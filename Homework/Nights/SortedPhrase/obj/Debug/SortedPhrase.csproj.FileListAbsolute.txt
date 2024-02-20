@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\SortedPhrase\bin\Debug\SortedPhrase.exe.config
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\SortedPhrase\bin\Debug\SortedPhrase.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\SortedPhrase\bin\Debug\SortedPhrase.pdb
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\SortedPhrase\obj\Debug\SortedPhrase.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\SortedPhrase\obj\Debug\SortedPhrase.frmSorted.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\SortedPhrase\obj\Debug\SortedPhrase.Properties.Resources.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\SortedPhrase\obj\Debug\SortedPhrase.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\SortedPhrase\obj\Debug\SortedPhrase.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\SortedPhrase\obj\Debug\SortedPhrase.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\SortedPhrase\obj\Debug\SortedPhrase.pdb

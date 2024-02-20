@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\MovieDatabase\bin\Debug\MovieDatabase.exe.config
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\MovieDatabase\bin\Debug\MovieDatabase.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\MovieDatabase\obj\Debug\MovieDatabase.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\MovieDatabase\obj\Debug\MovieDatabase.form.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\MovieDatabase\obj\Debug\MovieDatabase.Properties.Resources.resources
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\MovieDatabase\obj\Debug\MovieDatabase.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\MovieDatabase\obj\Debug\MovieDatabase.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\MovieDatabase\obj\Debug\MovieDatabase.exe
+C:\Users\janic\Downloads\Chapter 8 homework\Homework\Nights\MovieDatabase\obj\Debug\MovieDatabase.pdb
